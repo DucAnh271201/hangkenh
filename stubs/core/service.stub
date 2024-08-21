@@ -1,0 +1,16 @@
+<?php
+
+namespace $CLASS_NAMESPACE$;
+
+use App\Repositories\$MODEL$\$MODEL$RepositoryInterface;
+
+class $CLASS$Service
+{
+
+    public function __construct(
+        private readonly $MODEL$RepositoryInterface $repository
+    )
+    {
+    }
+
+}

@@ -1,0 +1,1 @@
+<strong class="">{!! $content !!}</strong>
